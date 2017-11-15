@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This went very well for me. The first time through I was about to pull my hair out due to nothing working, and an outdated solution branch. By the end I was able to complete it in 10 minutes and 6 seconds (without css... I was trying to test myself) and it felt pretty good. Before this I never really new how to actually set up a full crud rails app, and now I do.
 
-Things you may want to cover:
 
-* Ruby version
+## Tips
+* Stay calm... you aren't going to die
 
-* System dependencies
+* repetition makes perfect
 
-* Configuration
+* Have fun with it. By the end it felt like a game
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Be a boss
