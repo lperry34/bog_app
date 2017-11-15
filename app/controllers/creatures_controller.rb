@@ -28,6 +28,12 @@ class CreaturesController < ApplicationController
     redirect_to "/creatures"
   end
 
+  def destroy
+    @creature = Creature.find(params[:id])
+    @creature.destroy
+    redirect_to '/creatures'
+  end
+
 
 
   private
